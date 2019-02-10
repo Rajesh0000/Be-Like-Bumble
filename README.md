@@ -35,7 +35,11 @@ On Second   n^3 - (n-1)^3      --> If n = 2 Day Than 2^3 - (2-1)^3 = 7
 
 But  Adding First + Second = 8    i.e.  n^3 = 8
 
+Hence Answer = Const * n^3
+
 ___________________________________
 
 See My Attempts
+
+
 
